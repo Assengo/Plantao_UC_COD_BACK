@@ -1,0 +1,5 @@
+C:\Users\bruno\Desktop\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Plantao_UC_COD_BACK\obj\Debug\net6.0\Plantao_UC_COD_BACK.csproj.CoreCompileInputs.cache
